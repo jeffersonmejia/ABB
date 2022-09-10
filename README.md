@@ -51,7 +51,7 @@ Programado con JAVA SE
 
 ---
 
-[Documentación de estructura de datos de cola en JAVA SE 7 ](https://docs.oracle.com/javase/7/docs/api/java/util/Queue.html)
+No disponible
 
 ### Licencia
 
