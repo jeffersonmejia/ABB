@@ -63,4 +63,11 @@ Apache 2.0
 
 ---
 
-Jefferson Mejía 🍉
+- Jefferson Mejía
+- Merly Zambrano
+- Fernando Molina
+- Yanelly Arteaga
+- Ernesto Serrano
+
+Universidad Técnica de Manabí
+Portoviejo, Ecuador
