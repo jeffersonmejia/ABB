@@ -63,7 +63,7 @@ Apache 2.0
 
 ---
 
-- Jefferson Mejía
+- Jefferson Mejía, Coord.
 - Merly Zambrano
 - Fernando Molina
 - Yanelly Arteaga
