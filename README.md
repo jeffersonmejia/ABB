@@ -1,74 +1,49 @@
-## ☕ Árbol binario de búsqueda | ABB
+<div align="right">
+Made with love from <img src='https://i.postimg.cc/Mc25FLHJ/Flag-of-Ecuador.png' width='10'/> 
+</div>
 
-### Introducción
+# **Binary tree**
 
-> 💡 Aplicativo de consola que realiza operaciones de un arbol binario de búsqueda
+Add, remove and search elements in a binary tree 🌳
 
-### Tabla de contenidos
+## Content table
 
----
+1. Introduction
+2. Installation
+3. Preview
+4. Author
 
-- Preview
-- Características
-- Instalación
-- Proceso
-- Recursos útiles
-- Licencia
-- Autor
+## 1. Introduction
 
-### Preview
+Console App that makes binary tree operations
 
----
+## 2. Installation
 
-[![image.png](https://i.postimg.cc/MGkQHmGG/image.png)](https://postimg.cc/dhB1SdrM)
+1. Download [git](https://git-scm.com/downloads) <img src='https://i.postimg.cc/4nGTxK8y/Git-Icon-1788-C.png' width="10"/> if you don't have it
+2. Secondly, in your prefered console <img src='https://i.postimg.cc/GmBZnx3K/7560719.png' width="12" alt="Terminal freepik by Royyan Wijaya"/> execute:
 
-### Características
+   ```
+   git clone https://github.com/jeffersonmejia/universe-app.git
+   ```
 
----
+3. Download and install [Netbeans 8](https://netbeans.apache.org/download/index.html)
 
-- Menú interactivo
-- Almacenamiento con estructura de datos
-  - ABB
-- Operaciones
-  - Inserción
-  - Búsqueda
-  - Eliminación
+4. You are ready! Compile java coding ☕ and run it
 
-### Instalación
+## 3. Preview
 
----
+<img src="https://i.postimg.cc/y6wM1Lnk/Frame-1-2.png" width="450"/>
 
-1. JDK 8
-2. IDE Netbeans 8.0
+## 4. Author
 
-### Proceso
+- Jefferson Mejía - Web developer </>
+- [Merly Zambrano](https://github.com/merlypaola)
+- [Fernando Molina](https://github.com/FerchoMG)
+- [Yanelly Arteaga](https://github.com/domynll)
+- [Ernesto Serrano](https://github.com/ernesthuqui)
 
----
+**Eng Systems Students 👩‍👩‍👧‍👦**
 
-Programado con JAVA SE
-
-### Recursos útiles
-
----
-
-No disponible
-
-### Licencia
-
----
-
-Apache 2.0
-
-### Autor
-
----
-
-- Jefferson Mejía, Coord.
-- Merly Zambrano
-- Fernando Molina
-- Yanelly Arteaga
-- Ernesto Serrano
-
-Universidad Técnica de Manabí
+[Universidad Técnica de Manabí](https://utm.edu.ec/)
 
 Portoviejo, Ecuador
