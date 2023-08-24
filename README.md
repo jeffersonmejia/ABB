@@ -42,7 +42,7 @@ Console App that makes binary tree operations
 - [Yanelly Arteaga](https://github.com/domynll)
 - [Ernesto Serrano](https://github.com/ernesthuqui)
 
-**Eng Systems Students 👩‍👩‍👧‍👦**
+**Eng. Systems Students 👩‍👩‍👧‍👦**
 
 [Universidad Técnica de Manabí](https://utm.edu.ec/)
 
