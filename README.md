@@ -36,7 +36,7 @@ Console App that makes binary tree operations
 
 ## 4. Author
 
-- Jefferson Mejía - Web developer </>
+- [Jefferson Mejía](https://jeffersonmejia.github.io/blog) - Eng. Systems, Web developer
 - [Merly Zambrano](https://github.com/merlypaola)
 - [Fernando Molina](https://github.com/FerchoMG)
 - [Yanelly Arteaga](https://github.com/domynll)
