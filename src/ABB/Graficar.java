@@ -17,7 +17,7 @@ public class Graficar extends JPanel {
   //CONSTRUCTOR
   public Graficar(Arbol miArbol) {
     this.arbol = miArbol;
-    this.setBackground(Color.black);
+    this.setBackground(Color.white);
     label = new JLabel("ABB");
     label.setForeground(Color.white);
     label.setBounds(0, 0, 0, 0);

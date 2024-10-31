@@ -49,46 +49,26 @@ public class Arbol {
 
   private void insertarBinario(int clave, Object objeto, Nodo puntero) {
     Nodo nuevo = new Nodo(clave, objeto);
-
-    //INSERTA IZQUIERDA
+    // INSERTA A LA IZQUIERDA
     if (clave < puntero.getClave()) {
-      if (puntero != null && puntero.getIzquierdo() != null) {
-        // CONVIERTE IZQ EN RAIZ
-        if (puntero == null) {
-          puntero.setIzquierdo(nuevo);
-          System.out.println(">> Nodo insertado con éxito a la izquierda");
-          System.out.print("*Escribe 1 para continuar: ");
-          int wait = in.nextInt();
-
-        }
-        puntero = puntero.getIzquierdo();
-        this.insertarBinario(clave, objeto, puntero);
-      } else if (puntero.getIzquierdo() == null) {
+      if (puntero.getIzquierdo() == null) {
         puntero.setIzquierdo(nuevo);
         System.out.println(">> Nodo insertado con éxito a la izquierda");
         System.out.print("*Escribe 1 para continuar: ");
         int wait = in.nextInt();
+      } else {
+        this.insertarBinario(clave, objeto, puntero.getIzquierdo());
       }
-      //INSERTAR DERECHA
-    } else if (clave > puntero.getClave()) {
-      if (puntero != null && puntero.getDerecho() != null) {
-        // CONVIERTE IZQ EN RAIZ
-        if (puntero == null) {
-          puntero.setDerecho(nuevo);
-          System.out.println(">> Nodo insertado con éxito a la derecha");
-          System.out.print("*Escribe 1 para continuar: ");
-          int wait = in.nextInt();
-        }
-        puntero = puntero.getDerecho();
-        this.insertarBinario(clave, objeto, puntero);
-      } else if (puntero.getDerecho() == null) {
+    } // INSERTA A LA DERECHA
+    else if (clave > puntero.getClave()) {
+      if (puntero.getDerecho() == null) {
         puntero.setDerecho(nuevo);
         System.out.println(">> Nodo insertado con éxito a la derecha");
         System.out.print("*Escribe 1 para continuar: ");
         int wait = in.nextInt();
+      } else {
+        this.insertarBinario(clave, objeto, puntero.getDerecho());
       }
-
-      //INSERTAR DERECHA
     } else {
       System.out.println("(x) Repetido. Nodo no insertado");
     }
